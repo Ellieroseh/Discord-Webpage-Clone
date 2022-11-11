@@ -3,4 +3,3 @@ For the JustIT HTML and CSS bootcamp, my final project was to clone a website us
 
 # Link to Discord Homepage
 https://discord.com/
-# Discord-Webpage-Clone
